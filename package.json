@@ -22,6 +22,7 @@
   },
   "dependencies": {
     "body-parser": "^1.9.2",
+    "express": "~4.2.0",
     "mongoose": "^3.8.18",
     "morgan": "^1.4.1",
     "stylus": "^0.49.2"
