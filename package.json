@@ -1,0 +1,15 @@
+{
+  "name": "MeanApp1",
+  "version": "0.0.0",
+  "description": "My First app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "de71eea233cf538ad045fcc24985e0d871c624eb"
+  },
+  "author": "Sandor Tokodi",
+  "license": "MIT"
+}
