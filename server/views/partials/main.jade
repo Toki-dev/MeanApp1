@@ -1,2 +1,10 @@
-h1 This is a Partial
-h2 {{ myVar }}
+.container
+    .jumbotron
+        h1 MEAN App 1
+        p Lorem Ipsum Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem Ipsum
+
+        .row
+            .col-md-6
+                div(ng-include="'/partials/featured-courses'")
+            .col-md-6
+                div(ng-include="'/partials/new-courses'")
